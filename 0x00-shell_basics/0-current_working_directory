@@ -1,1 +1,1 @@
-#!/bin/bashecho "ls"
+#!/bin/bashecho "pwd"
